@@ -1,0 +1,6 @@
+Name,Category,Price
+Ноутбук Acer Aspire 7 A715-43G-R92H,Ноутбуки,33000
+Компьютер Artline Gaming (X43v31) AMD Ryzen 5 3600,Компьютеры неттопы моноблоки,26000
+Монитор 23.6" HP X24c (9FM22AA) Full HD Curved VA 1500R,Мониторы,5300
+Bluetooth Гарнитура Xiomi 6.0,Наушники,3500
+ddd,ddd,2222
